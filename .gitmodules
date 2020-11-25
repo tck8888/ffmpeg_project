@@ -1,0 +1,3 @@
+[submodule "FFmpegDemo"]
+	path = FFmpegDemo
+	url = https://github.com/tck8888/FFmpegDemo.git
