@@ -1,3 +1,6 @@
-[submodule "FFmpegDemo"]
-	path = FFmpegDemo
-	url = https://github.com/tck8888/FFmpegDemo.git
+[submodule "MyPlayer"]
+	path = MyPlayer
+	url = https://github.com/tck8888/MyPlayer.git
+[submodule "jni_thread_demo"]
+	path = jni_thread_demo
+	url = https://github.com/tck8888/jni_thread_demo.git
