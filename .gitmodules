@@ -4,3 +4,9 @@
 [submodule "jni_thread_demo"]
 	path = jni_thread_demo
 	url = https://github.com/tck8888/jni_thread_demo.git
+[submodule "ffmpeg_share_library_demo"]
+	path = ffmpeg_share_library_demo
+	url = https://github.com/tck8888/ffmpeg_share_library_demo.git
+[submodule "my_opensl"]
+	path = my_opensl
+	url = https://github.com/tck8888/my_opensl.git
